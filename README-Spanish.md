@@ -1,4 +1,4 @@
-# Ort Survival 🕹️
+# Ort Survival 🕹️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [English](./README.md) | Español
 
 Ort survival es un juego de mazmorras en 2D inspirado en The Binding of Isaac, que transcurre en la escuela técnica ORT ubicada en Argentina, donde te enfrentarás contra maestros y asistentes para superar el año.
 ### **Trailer:** https://www.youtube.com/watch?v=iaDXWzb5dBc&t=11s
