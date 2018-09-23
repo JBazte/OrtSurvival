@@ -1,6 +1,6 @@
 # Ort Survival 🕹️
 
-Ort survival is a 2D top-down dungeon crawler game inspired by The Binding of Isaac, which takes place at the ORT technical school located in Argentina, where you will face teachers and assistants to overcome the year. <br>
+Ort survival is a 2D top-down dungeon crawler game inspired by The Binding of Isaac, which takes place at the ORT technical school located in Argentina, where you will face teachers and assistants to overcome the year.
 ### **Trailer:** https://www.youtube.com/watch?v=iaDXWzb5dBc&t=11s
 
 ## Play or Download 🎮
