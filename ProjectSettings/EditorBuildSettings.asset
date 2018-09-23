@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 228e499ad50e9c54484ab01ee4ce63d9
+  - enabled: 1
+    path: Assets/Scenes/Seleccion de jugador.unity
+    guid: 9667fe0bab294914fab4b93ed32f23e7
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: b79b1a7185a22494db86463bef0510df
+  - enabled: 1
+    path: Assets/Scenes/Hall_Disenio.unity
+    guid: 743b63940fc8b344abf782e4e02cbc72
+  - enabled: 1
+    path: Assets/Scenes/Hall_Gestion.unity
+    guid: 536387d4437c16d4aa471dd9359ecab3
+  - enabled: 1
+    path: Assets/Scenes/Hall_Medios.unity
+    guid: befb54412d6d30046b0d723349b03b8c
+  - enabled: 1
+    path: Assets/Scenes/Hall_TIC.unity
+    guid: 8f8d06b05815e734d811d0929fd5c36f
+  - enabled: 1
+    path: Assets/Scenes/Aula 201_Disenio.unity
+    guid: b704bea91ee433344bf5a8b2c3972f2f
+  - enabled: 1
+    path: Assets/Scenes/Aula 201_Gestion.unity
+    guid: f02d21243d30b16429493fb162397f72
+  - enabled: 1
+    path: Assets/Scenes/Aula 201_Medios.unity
+    guid: 46d4a829aa41a554a9b3f685a0dd83db
+  - enabled: 1
+    path: Assets/Scenes/Aula 201_TIC.unity
+    guid: b642d6a52cbdf0b4b9563fee67ef82ff
+  - enabled: 1
+    path: Assets/Scenes/Aula 202_Disenio.unity
+    guid: 7fae0bf7fb99aa449b1512dc2ac334a5
+  - enabled: 1
+    path: Assets/Scenes/Aula 202_Gestion.unity
+    guid: 6d9cbdd3cbc824f4f9693f34d081b05b
+  - enabled: 1
+    path: Assets/Scenes/Aula 202_Medios.unity
+    guid: 08d9f4f84b317aa4f9c863b8e05b9c25
+  - enabled: 1
+    path: Assets/Scenes/Aula 202_TIC.unity
+    guid: 29052322bc0dde04f92f016cee5c706e
+  - enabled: 1
+    path: Assets/Scenes/Aula 203_Disenio.unity
+    guid: d4af6064e39be1744bcafb545a57d4e3
+  - enabled: 1
+    path: Assets/Scenes/Aula 203_Gestion.unity
+    guid: 818cacfb683c33e4c91aea4fd9960375
+  - enabled: 1
+    path: Assets/Scenes/Aula 203_Medios.unity
+    guid: eda54b3da2d000d47ba1c4a1fbdfa3d8
+  - enabled: 1
+    path: Assets/Scenes/Aula 203_TIC.unity
+    guid: 44a5d6993afa8404e9c338f63c7c06b0
+  - enabled: 1
+    path: Assets/Scenes/Aula 204_Disenio.unity
+    guid: dbe9fc91ea683af499fd8a093eaf964b
+  - enabled: 1
+    path: Assets/Scenes/Aula 204_Gestion.unity
+    guid: 42cfb77ca0967444899faa1ce8243d75
+  - enabled: 1
+    path: Assets/Scenes/Aula 204_Medios.unity
+    guid: 513ec647258029e40b74a5fa15106f8a
+  - enabled: 1
+    path: Assets/Scenes/Aula 204_TIC.unity
+    guid: 5721badcfa23f074aa061d63d1d82dc2
+  - enabled: 1
+    path: Assets/Scenes/Aula 205_Disenio.unity
+    guid: 735403851dcc63d40990de9970c78a79
+  - enabled: 1
+    path: Assets/Scenes/Aula 205_Gestion.unity
+    guid: b1c6c27cc97239a4e9bd2f24a3d76068
+  - enabled: 1
+    path: Assets/Scenes/Aula 205_Medios.unity
+    guid: 22f456837c780cf44851e6d8542c36d2
+  - enabled: 1
+    path: Assets/Scenes/Aula 205_TIC.unity
+    guid: b07ef648362d4fe4d8446d5f6fe99e94
+  - enabled: 1
+    path: Assets/Scenes/Aula 206_Disenio.unity
+    guid: ab202684c6b4f874bbe0e329639c4ae8
+  - enabled: 1
+    path: Assets/Scenes/Aula 206_Gestion.unity
+    guid: 6d95fa0d107c6194e8a494e08417df88
+  - enabled: 1
+    path: Assets/Scenes/Aula 206_Medios.unity
+    guid: ff49e74d5dc608341acb1b7c8c50085a
+  - enabled: 1
+    path: Assets/Scenes/Aula 206_TIC.unity
+    guid: 565551df6cf2f624b9f0bc0c1e1daf76
+  - enabled: 1
+    path: Assets/Scenes/Aula 207_Disenio.unity
+    guid: 50f93cbde66312b4ebaaa166cd060eee
+  - enabled: 1
+    path: Assets/Scenes/Aula 207_Gestion.unity
+    guid: 97a9a437f84a20248b57ea06644c1bb4
+  - enabled: 1
+    path: Assets/Scenes/Aula 207_Medios.unity
+    guid: 8790fa0e3eb85454188972d93a3057c2
+  - enabled: 1
+    path: Assets/Scenes/Aula 207_TIC.unity
+    guid: 6bb3faaf95d048e41bb6fd40354ac266
+  - enabled: 1
+    path: Assets/Scenes/Aula 208_Disenio.unity
+    guid: 1251e2bbc7d76444fb27985a763b98df
+  - enabled: 1
+    path: Assets/Scenes/Aula 208_Gestion.unity
+    guid: 44b0c0cc8184e1b499e8040ea40e5c02
+  - enabled: 1
+    path: Assets/Scenes/Aula 208_Medios.unity
+    guid: 40a72ce67378bdf47b215ae6b52f51ba
+  - enabled: 1
+    path: Assets/Scenes/Aula 208_TIC.unity
+    guid: 52b509a87a929fa4dba3f4547e3174a5
+  - enabled: 1
+    path: Assets/Scenes/Aula 209_Disenio.unity
+    guid: a086343add741db4396abcd3ba4a31ae
+  - enabled: 1
+    path: Assets/Scenes/Aula 209_Gestion.unity
+    guid: 3d77cadd067862f4999c6b1732863c7d
+  - enabled: 1
+    path: Assets/Scenes/Aula 209_Medios.unity
+    guid: 7069c58f3861ec045914fcbb7bcb9379
+  - enabled: 1
+    path: Assets/Scenes/Aula 209_TIC.unity
+    guid: 3f492cf464040084daa472d4bff4e037
+  - enabled: 1
+    path: Assets/Scenes/Aula L1_Disenio.unity
+    guid: ff9216ff68f93684f9a4b4fd2497b2d5
+  - enabled: 1
+    path: Assets/Scenes/Aula L1_Gestion.unity
+    guid: 6c07456bfeba9f248ae1ae68649e4826
+  - enabled: 1
+    path: Assets/Scenes/Aula L1_Medios.unity
+    guid: f789c69ef9bd23b43bdec6b7ddeb0574
+  - enabled: 1
+    path: Assets/Scenes/Aula L1_TIC.unity
+    guid: 187801f4b8069674c96cfa9190b169b5
+  - enabled: 1
+    path: Assets/Scenes/Aula L2_Disenio.unity
+    guid: 58a7744608096074f8cc340d2597b27b
+  - enabled: 1
+    path: Assets/Scenes/Aula L2_Gestion.unity
+    guid: 5de27195e92ed3c4ebee9fd21c2cacbe
+  - enabled: 1
+    path: Assets/Scenes/Aula L2_Medios.unity
+    guid: f4eeae0e758d5744198c679e0df754fe
+  - enabled: 1
+    path: Assets/Scenes/Aula L2_TIC.unity
+    guid: 3f1275977ec281c44a9c249c7853dfaa
+  - enabled: 1
+    path: Assets/Scenes/Aula L3_Disenio.unity
+    guid: c8bb90d83d6118a4e82da3e2fb037542
+  - enabled: 1
+    path: Assets/Scenes/Aula L3_Gestion.unity
+    guid: 3ceaf271f670d324ead5b1a694227f5f
+  - enabled: 1
+    path: Assets/Scenes/Aula L3_Medios.unity
+    guid: d4fe00d3acc4df44c87e2964aed6ac9a
+  - enabled: 1
+    path: Assets/Scenes/Aula L3_TIC.unity
+    guid: 2df27f84a13015f4f8686ba66e16c18e
+  - enabled: 1
+    path: Assets/Scenes/Aula 213_Disenio.unity
+    guid: 7297777350353164a9a93f765b3ab9b0
+  - enabled: 1
+    path: Assets/Scenes/Aula 213_Gestion.unity
+    guid: 119d86a5730c9a2449b7137682ce6c62
+  - enabled: 1
+    path: Assets/Scenes/Aula 213_Medios.unity
+    guid: 4ed0ac60b8474a245ad2ed52cdb64315
+  - enabled: 1
+    path: Assets/Scenes/Aula 213_TIC.unity
+    guid: e9bc4a3bbd7f5b047aa3992c34d43277
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 4b571369417cb9b4bac057fa03cd756b
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: ed0ec12910d998e45947e2f2c7483fdd
+  m_configObjects: {}
