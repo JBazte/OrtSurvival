@@ -29,6 +29,7 @@ Ort survival es un juego de mazmorras en 2D inspirado en The Binding of Isaac, q
 * [Incompetech](https://incompetech.com/) - Banda Sonora
 * [Trello](https://trello.com) - Organización de Tareas
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com) - IDE
+* [Rhinoceros 3D](https://www.rhino3d.com/es/) - Diseño del JoyStick
 
 ## Autores ✒️
 
