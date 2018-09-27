@@ -29,13 +29,14 @@ Ort survival is a 2D top-down dungeon crawler game inspired by The Binding of Is
 * [Incompetech](https://incompetech.com/) - SoundTrack
 * [Trello](https://trello.com) - Project Management
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com) - IDE
+* [Rhinoceros 3D](https://www.rhino3d.com/es/) - JoyStick Design
 
 ## Authors ✒️
 
 * **Joaquín Bazterrica** |👨‍💻| *Project Manager/Programmer/Designer* | [GitHub](https://github.com/JBazte) - [Itch.io](https://jbazte.itch.io/) - [GameJolt](https://jbazte.gamejolt.io)
 * **Bruno Pascaretta** |👨‍💻| *Programmer* | [Itch.io](https://brunopasca.itch.io)
 * **Álvaro Rodríguez Seijo** |🎨| *Designer* | [Piskel](https://www.piskelapp.com/user/6676387420176384)
-* **Manuel Sánchez Fernandez de la Vega** |⚙️| *Hardware* 
+* **Manuel Sánchez Fernandez de la Vega** |⚙️| *Hardware* |
 
 ## License 📄
 
